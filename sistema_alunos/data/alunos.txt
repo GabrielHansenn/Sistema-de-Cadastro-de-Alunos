@@ -1,0 +1,1 @@
+[{"id":1,"nome":"Gabriel Hansen Abreu Andrade","matricula":"2023116687","curso":"Engenharia de Chicote"}]
